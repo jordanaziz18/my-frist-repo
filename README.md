@@ -7,3 +7,4 @@ Class: PBP KKI
 
 Hobby: sleeping 
 
+Major: Computer System Information
